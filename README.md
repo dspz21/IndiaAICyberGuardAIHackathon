@@ -68,6 +68,10 @@ Testing code is included in the **same notebook** used for training.
 
 Use the script `test_approach_B_C.py` to test Models B and C. Ensure the script is properly refactored and ready for execution.
 
+## Test Results
+
+Test predictions are available in Test_pred_Approach_A/B/C.csv files.
+
 ---
 
 ## Notes
