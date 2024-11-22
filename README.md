@@ -2,7 +2,11 @@
 
 This repository contains code and resources for the **IndiaAICyberGuardAIHackathon**, created by Team S4AI. It demonstrates training and testing models using various approaches and deploying them using Modal.
 
-## Prerequisites
+## Steps to Run the Project - Approach A
+
+Import the approach_A_Sentence_Transformer.ipynb in Google colab. Upload the mounted_dir in colab. Run Colab
+
+## Prerequisites - Approach B and C
 
 Before proceeding, ensure you have the following:
 
@@ -13,7 +17,7 @@ Before proceeding, ensure you have the following:
    pip install modal
    ```
 
-## Steps to Run the Project
+## Steps to Run the Project - Approach B and C
 
 ### 1. Clone the Repository
 
